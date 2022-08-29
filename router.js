@@ -8,14 +8,6 @@ const otherWorlds = [
     title: "Les Misarables",
     body: "Jan Valjan and crime",
   },
-
-  {
-    id: 2,
-    author: "James Joyce",
-    title: "Ulyssess",
-    body: "Hardest book in history",
-  },
-
   {
     id: 3,
     author: "Patrick Rothfuss",
